@@ -1,0 +1,29 @@
+# jemdoc: nofooter
+== Communication Enhancement Model of Intelligent Reflecting Surface Based on Cooperative Relationship
+
+
+== Authors
+- Boyu Han, Xuwen Liang, Zhuochen Xie, Xu Du, Xiaohe He.
+
+== Reference
+- In Proceedings of
+American Control Conference,
+pages 3126 - 3131, New Orleans, USA, 2021.
+
+== Download
+- [https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=JGDJ202123007&uniplatform=NZKPT&v=2fqOuK4zqEItCQnP86E__xv8MctFhdOhFcWXlYvrfaNLD04DcL6AK1AhNQHNd73x.html Paper]
+
+== Bibtex
+~~~
+@INPROCEEDINGS{Han2021,\n
+author = {Han, B. and Liang, X. and Xie, Z. and Du, X and He, X.},\n
+title = {Communication Enhancement Model of Intelligent Reflecting Surface Based on Cooperative Relationship
+},\n
+booktitle = {In Proceedings of Laser and Optoelectronics Progress, 2021},\n
+year = {2021},\n
+pages = {2306003},\n
+}
+
+
+~~~
+

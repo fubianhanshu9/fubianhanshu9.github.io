@@ -1,0 +1,28 @@
+# jemdoc: nofooter
+== Online power system parameter estimation and optimal operation
+
+
+== Authors
+- Xu Du, Alexander Engelmann,Timm Faulwasser, Boris Houska.
+
+== Reference
+- In Proceedings of
+American Control Conference,
+pages 3126 - 3131, New Orleans, USA, 2021.
+
+== Download
+- [ACC2021.pdf Paper]
+
+== Bibtex
+~~~
+@INPROCEEDINGS{Du2021,\n
+author = {Du, X. and Engelmann, A. and Faulwasser, T. and Houska, B.},\n
+title = {Online power system parameter estimation and optimal operation},\n
+booktitle = {In Proceedings of the American Control Conference, New Orleans, USA},\n
+year = {2021},\n
+pages = {3126-3131},\n
+}
+
+
+~~~
+

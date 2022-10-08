@@ -1,0 +1,27 @@
+# jemdoc: nofooter
+== Distributed state estimation for AC power systems using Gauss-Newton ALADIN
+
+
+
+== Authors
+- Xu Du, Alexander Engelmann, Yuning Jiang, Timm Faulwasser, Boris Houska.
+
+== Reference
+- In Proceedings of the
+58th IEEE Conference on Decision and Control,
+pages 1919 - 1924, Nice, France, December, 2019.
+
+== Download
+- [CDC2019C.pdf Paper]
+
+== Bibtex
+~~~
+@INPROCEEDINGS{Du2019,\n
+author = {Du, X. and Engelmann, A. and Jiang, Y. and Faulwasser, T. and Houska, B.},\n
+title = {Distributed state estimation for {AC} power systems using {G}auss-{N}ewton {ALADIN}},\n
+booktitle = {In Proceedings of the 58th IEEE Conference on Decision and Control},\n
+year = {2019},\n
+pages = {1919-1924},\n
+}
+~~~
+

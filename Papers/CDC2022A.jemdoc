@@ -1,0 +1,27 @@
+# jemdoc: nofooter
+== Approximations for Optimal Experimental Design in Power System Parameter Estimation
+
+
+
+
+== Authors
+- Xu Du, Alexander Engelmann, Timm Faulwasser, Boris Houska.
+
+== Reference
+- In Proceedings of the
+61th IEEE Conference on Decision and Control,
+ Cancun, Mexico, December, 2022.
+
+== Download
+- [CDC2022A.pdf Paper]
+
+== Bibtex
+~~~
+@INPROCEEDINGS{Du2019,\n
+author = {Du, X. and Engelmann, A. andand Faulwasser, T. and Houska, B.},\n
+title = {Approximations for Optimal Experimental Design in Power System Parameter Estimation},\n
+booktitle = {In Proceedings of the 61th IEEE Conference on Decision and Control},\n
+year = {2022},\n
+}
+~~~
+

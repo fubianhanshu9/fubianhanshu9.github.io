@@ -1,0 +1,27 @@
+# jemdoc: nofooter
+== Alternating Direction Based Sequential Boolean Quadratic Programming Method for Transmit Antenna Selection
+
+
+
+
+== Authors
+- Shijie Zhu, Xu Du.
+
+== Reference
+- In Proceedings of the
+61th IEEE Conference on Decision and Control,
+ Cancun, Mexico, December, 2022.
+
+== Download
+- [CDC2022B.pdf Paper]
+
+== Bibtex
+~~~
+@INPROCEEDINGS{Du2019,\n
+author = {Zhu, S. and Du, X.},\n
+title = {Alternating Direction Based Sequential Boolean Quadratic Programming Method for Transmit Antenna Selection},\n
+booktitle = {In Proceedings of the 61th IEEE Conference on Decision and Control},\n
+year = {2022},\n
+}
+~~~
+

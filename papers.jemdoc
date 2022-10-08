@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{papers.html}, nofooter
+== Xu Du-Papers
+
+
+== 2022
+- [Papers\\CDC2022A.html Approximations for Optimal Experimental Design in Power System Parameter Estimation] \n
+
+
+- [Papers\\CDC2022B.html Alternating Direction Based Sequential Boolean Quadratic Programming Method for Transmit Antenna Selection] \n
+
+== 2021
+
+- [Papers\\ACC2021.html Online power system parameter estimation and optimal operation]\n
+
+- [Papers\\RIS2021.html Communication Enhancement Model of Intelligent Reflecting Surface Based on Cooperative Relationship]\n
+
+
+
+
+== 2020
+- [Papers\\IFAC2020.html Optimal Experiment Design for AC Power Systems Admittance Estimation]\n
+
+== 2019
+- [Papers\\ALADIN.html Distributed State Estimation for AC Power Systems using Gauss-Newton ALADIN]\n
