@@ -1,0 +1,28 @@
+# jemdoc: nofooter
+== Optimal Resilience Design of AC Microgrid using AO-SBQP Method
+
+
+
+== Authors
+- Xu Du, Shijie Zhu, Yifei Wang, Boyu Han, Xiaohe He
+
+
+
+== Download
+- [https://arxiv.org/abs/2211.06135]\n
+
+== Bibtex
+~~~
+
+
+
+@article{Du2020,\n
+author = {Du, X. and Zhu, Shijie. and Wang, Y. and Han, B. and He, X.},\n
+title = {Optimal Resilience Design of AC Microgrid using AO-SBQP Method},\n
+journal={arXiv preprint arXiv:2211.06135},\n
+year = {2020},\n
+}
+
+
+~~~
+
