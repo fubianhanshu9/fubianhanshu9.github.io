@@ -11,6 +11,20 @@
 58th IEEE Conference on Decision and Control,
 pages 1919 - 1924, Nice, France, December, 2019.
 
+
+== Abstract
+This paper proposes a structure exploiting algorithm for solving non-convex power system state estimation problems in distributed fashion. Because the power flow
+equations in large electrical grid networks are non-convex
+equality constraints, we develop a tailored state estimator
+based on Augmented Lagrangian Alternating Direction Inexact Newton (ALADIN) method, which can handle these
+nonlinearities efficiently. Here, our focus is on using GaussNewton Hessian approximations within ALADIN to arrive at
+an efficient (computationally and communicationally) variant
+of ALADIN for network maximum likelihood estimation problems. Analyzing the IEEE 30-Bus system we illustrate how the
+proposed algorithm can be used to solve non-trivial network
+state estimation problems. We also compare the method with
+existing distributed parameter estimation codes in order to
+illustrate its performance.
+
 == Download
 - [CDC2019C.pdf Paper]
 
