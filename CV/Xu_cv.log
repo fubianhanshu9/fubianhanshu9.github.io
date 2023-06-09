@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.21)  9 JUN 2023 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.21)  9 JUN 2023 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,16 +592,16 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 285.
+ne 286.
 
 
-Overfull \hbox (2.50728pt too wide) in paragraph at lines 287--289
+Overfull \hbox (2.50728pt too wide) in paragraph at lines 288--290
 []\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Boyu Han, In-no-va-tion Academy for
  Mi-crosatel-lite, Chi-nese Academy
  []
 
 
-Overfull \hbox (2.95436pt too wide) in paragraph at lines 289--291
+Overfull \hbox (2.95436pt too wide) in paragraph at lines 290--292
 []\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Shi-jie Zhu, In-no-va-tion Academy 
 for Mi-crosatel-lite, Chi-nese Academy
  []
@@ -612,13 +612,13 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 295.
+ne 296.
 
 [3] [4] (./Xu_cv.aux) ) 
 Here is how much of TeX's memory you used:
  10293 strings out of 478268
  189409 string characters out of 5850344
- 678830 words of memory out of 5000000
+ 679830 words of memory out of 5000000
  28308 multiletter control sequences out of 15000+600000
  481444 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -632,7 +632,7 @@ e1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmti10.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.
 pfb><d:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on Xu_cv.pdf (4 pages, 117136 bytes).
+Output written on Xu_cv.pdf (4 pages, 118195 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
