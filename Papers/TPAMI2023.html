@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Consensus ALADIN: A Framework for Distributed Optimization and Its Application in Federated Learning</title>
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+<h1>Consensus ALADIN: A Framework for Distributed Optimization and Its Application in Federated Learning</h1>
+<div id="subtitle">
+
+</div>
+</div>
+<h2>Authors</h2>
+<ul>
+<li><p>Xu Du, Jingzhe Wang
+</p>
+</li>
+</ul>
+<h2>Abstract</h2>
+<p>This paper investigates algorithms for solving distributed consensus optimization problems that are non-convex. Since
+Typical ALADIN (Typical Augmented Lagrangian based Alternating Direction Inexact Newton Method, T-ALADIN for short) is a
+well-performed algorithm treating distributed optimization problems that are non-convex, directly adopting T-ALADIN to those of
+consensus is a natural approach. However, T-ALADIN typically results in high communication and computation overhead, which makes
+such an approach far from efficient. In this paper, we propose a new variant of the ALADIN family, coined consensus ALADIN
+(C-ALADIN for short). C-ALADIN inherits all the good properties of T-ALADIN, such as the local linear or super-linear convergence rate
+and the local convergence guarantees for non-convex optimization problems; besides, C-ALADIN offers unique improvements in terms
+of communication efficiency and computational efficiency. Moreover, C-ALADIN involves a reduced version, in comparison with
+Consensus ADMM (Alternating Direction Method of Multipliers), showing significant convergence performance, even without the
+help of second-order information. We also propose a practical version of C-ALADIN, named FedALADIN, that seamlessly serves the
+emerging federated learning applications, which expands the reach of our proposed C-ALADIN. We provide numerical experiments to
+demonstrate the effectiveness of C-ALADIN. The results show that C-ALADIN has significant improvements in convergence
+performance.
+
+</p>
+<h2>Download</h2>
+<ul>
+<li><p><a href="https://arxiv.org/abs/2306.05662" target=&ldquo;blank&rdquo;>https://arxiv.org/abs/2306.05662</a><br />
+</p>
+</li>
+</ul>
+<h2>Bibtex</h2>
+<div class="infoblock">
+<div class="blockcontent">
+<p>
+
+
+@misc{du2023consensus,<br />
+title={Consensus ALADIN: A Framework for Distributed Optimization and Its Application in Federated Learning}, <br />
+author={Xu Du and Jingzhe Wang},<br />
+year={2023},<br />
+eprint={2306.05662},<br />
+archivePrefix={arXiv},<br />
+primaryClass={math.OC}<br />
+}
+
+</p>
+</div></div>
+</div>
+</body>
+</html>
