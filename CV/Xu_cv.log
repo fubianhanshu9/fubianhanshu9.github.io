@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.21)  18 SEP 2023 09:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.21)  18 SEP 2023 09:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -564,7 +564,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 219.
+ne 224.
 
 (d:/texlive/2022/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
@@ -575,7 +575,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 240.
+ne 245.
 
 [2]
 
@@ -584,7 +584,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 267.
+ne 272.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -592,7 +592,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 284.
+ne 289.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -600,35 +600,35 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 290.
+ne 295.
 
 
-Overfull \hbox (2.50728pt too wide) in paragraph at lines 292--294
-[]\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Boyu Han, In-no-va-tion Academy for
- Mi-crosatel-lite, Chi-nese Academy
- []
-
-
-Overfull \hbox (2.95436pt too wide) in paragraph at lines 294--296
+Overfull \hbox (2.95436pt too wide) in paragraph at lines 302--304
 []\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Shi-jie Zhu, In-no-va-tion Academy 
 for Mi-crosatel-lite, Chi-nese Academy
  []
 
 
+Overfull \hbox (2.50728pt too wide) in paragraph at lines 309--311
+[]\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Boyu Han, In-no-va-tion Academy for
+ Mi-crosatel-lite, Chi-nese Academy
+ []
+
+
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 300.
+ne 315.
 
 [3] [4] (./Xu_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 10295 strings out of 478268
- 189425 string characters out of 5850344
+ 10299 strings out of 478268
+ 189453 string characters out of 5850344
  678830 words of memory out of 5000000
  28308 multiletter control sequences out of 15000+600000
- 481495 words of font info for 91 fonts, out of 8000000 for 9000
+ 481597 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,5n,106p,10600b,348s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {d:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-
@@ -640,7 +640,7 @@ e1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmti10.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.
 pfb><d:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on Xu_cv.pdf (4 pages, 118622 bytes).
+Output written on Xu_cv.pdf (4 pages, 118924 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
