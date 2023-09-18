@@ -1,0 +1,40 @@
+# jemdoc: nofooter
+== A Global Convergence Theory for Non-convex Consensus ADMM and ALADIN 
+
+
+
+== Authors
+- Xu Du, Jingzhe Wang, Xiaohua Zhou, Yijie Mao
+
+== Abstract
+In this paper, we formally analyze global convergence in the realm of distributed consensus optimization. Current solutions have
+explored such analysis, particularly focusing on consensus alternating direction method of multipliers (C-ADMM), including
+convex and non-convex cases. While such efforts on non-convexity offer elegant theory guaranteeing global convergence, they
+entail strong assumptions and complicated proof techniques that are increasingly pose challenges when adopted to realworld applications. To resolve such tension, we propose a novel bi-level globalization strategy that not only guarantees global
+convergence but also provides succinct proofs, all while requiring mild assumptions. We begin by adopting such a strategy to
+perform global convergence analysis for the non-convex cases in C-ADMM. Then, we employ our proposed strategy in consensus
+augmented Lagrangian based alternating direction inexact Newton method (C-ALADIN), a more recent and generalization
+of C-ADMM. Surprisingly, our analysis shows that C-ALADIN globally converges to local optimizer, complementary to the
+prior work on C-ALADIN, which had primarily focused on analyzing local convergence for non-convex cases.
+
+
+== Download
+- [https://arxiv.org/abs/2309.02660]\n
+
+== Bibtex
+~~~
+
+
+
+@misc{du2023bilevel,\n
+      title={A Bi-level Globalization Strategy for Non-convex Consensus ADMM and ALADIN}, \n
+      author={Xu Du and Jingzhe Wang and Xiaohua Zhou and Yijie Mao},\n
+      year={2023},\n
+      eprint={2309.02660},\n
+      archivePrefix={arXiv},\n
+      primaryClass={math.OC}\n
+}
+
+
+~~~
+
