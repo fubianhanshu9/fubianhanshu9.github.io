@@ -10,6 +10,22 @@
 American Control Conference,
 pages 3126 - 3131, New Orleans, USA, 2021.
 
+== Abstract
+The integration of renewables into electrical grids
+calls for novel control schemes, which usually are model
+based. Classically, for power systems parameter estimation
+and optimization-based control are often decoupled, which
+may lead to increased cost of system operation during the
+estimation procedures. The present work proposes a method for
+simultaneously minimizing grid operation cost and estimating
+line parameters. To this end, we rely on methods from optimal
+design of experiments. This approach leads to a substantial
+reduction in cost for optimal estimation and in higher accuracy
+in the parameters compared with standard combination of
+optimal power flow and maximum-likelihood estimation. We
+illustrate the performance of the proposed method on simple
+benchmark system.
+
 == Download
 - [ACC2021.pdf Paper]
 

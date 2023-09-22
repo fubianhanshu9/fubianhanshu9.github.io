@@ -12,16 +12,33 @@
 61th IEEE Conference on Decision and Control,
  Cancun, Mexico, December, 2022.
 
+
+== Abstract
+This paper is about computationally tractable
+methods for power system parameter estimation and Optimal
+Experiment Design (OED). The main motivation of OED is
+to increase the accuracy of power system parameter estimates
+for a given number of batches. One issue in OED, however,
+is that solving the OED problem for larger power grids turns
+out to be computationally expensive and, in many cases, computationally intractable. Therefore, the present paper proposes
+three numerical approximation techniques, which increase the
+computational tractability of OED for power systems. These
+approximation techniques are benchmarked on a 5-bus and a
+14-bus case studies.
+
 == Download
-- [CDC2022A.pdf Paper]
+- [0280.pdf Paper]
 
 == Bibtex
 ~~~
-@INPROCEEDINGS{Du2019,\n
-author = {Du, X. and Engelmann, A. andand Faulwasser, T. and Houska, B.},\n
-title = {Approximations for Optimal Experimental Design in Power System Parameter Estimation},\n
-booktitle = {In Proceedings of the 61th IEEE Conference on Decision and Control},\n
-year = {2022},\n
+
+@inproceedings{Du2019,\n
+  title={Approximations for optimal experimental design in power system parameter estimation},\n
+  author={Du, Xu and Engelmann, Alexander and Faulwasser, Timm and Houska, Boris},\n
+  booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)},\n
+  pages={5692--5697},\n
+  year={2022},\n
+  organization={IEEE}\n
 }
 ~~~
 

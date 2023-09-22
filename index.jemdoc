@@ -4,33 +4,36 @@
 ~~~
 {}{img_left}{img/photo.jpg}{alt text}{200px}{270px}
 Xu Du\n
-Postdoctoral Researcher\n
-[https://www.ncl.uestc.edu.cn/ National Key Laboratory of Science and Technology
-on Communications]\n
-[https://www.uestc.edu.cn/ University of Electronic Science and Technology of China]\n
+Assistant Researcher\n
+
+[http://www.hnas.ac.cn/sxyjs/ Institute of Mathematics HNAS, Henan Academy of Science]\n
 \n
-Advisor: [https://yuan-xiaojun.github.io/Yuan-Xiaojun/ Xiaojun Yuan]\n
-\n
+
 [https://scholar.google.com/citations?user=OnIuCR0AAAAJ Google Scholar],  [https://www.researchgate.net/profile/Xu-Du-9 ResearchGate]  \n
 ~~~
 
 
 == Biography
-Xu Du is a postdoctoral researcher under the supervision of [https://yuan-xiaojun.github.io/Yuan-Xiaojun/ Prof. Xiaojun Yuan] at the 
-National Key Laboratory of Science and Technology on Communications
-of University of Electronic Science and Technology of China (UESTC). 
+Xu Du is an assistant researcher of the Institute of Mathematics HNAS, Henan Academy of Science. 
 He received his B.E. in Computer Science and Technology from Zhengzhou University (ZZU) in 2017, and 
+<<<<<<< HEAD
 Ph.D under the supervision of [https://faculty.sist.shanghaitech.edu.cn/faculty/boris/ Prof. Boris Houska] in Engineering Communication and Information Systems
  from University of Chinese Academy of Sciences (UCAS) and ShanghaiTech University in 2022. 
+=======
+Ph.D in Engineering Communication and Information Systems
+ from University of Chinese Academy of Sciences (UCAS) and ShanghaiTech University in 2022. 
+He was a postdoc researcher at the 
+National Key Laboratory of Science and Technology on Communications
+of University of Electronic Science and Technology of China (UESTC) from 2023.1 to 2023.6. 
+>>>>>>> 24c0509eb6ebf2e75ce81a4314aa5c614e0d016c
 His research interests include distributed optimization, game theory, 
 optimal experiement design, optimal control, robust optimization, wireless communication and power grid.
 
 == Contact
 Xu Du\n
-University of Electronic Science and Technology of China\n
-National Key Laboratory of Science and Technology on Communications\n
-Qingshuihe Campus of UESTC, \n
-No.2006, Xiyuan Avenue, West Hi-tech Zone, \n
-  Chengdu, Sichuan, P.R.China.\n
-[duxu@shanghaitech.edu.cn]
+Henan Academy of Science\n
+ Institute of Mathematics HNAS\n
+No.266-38 Mingli Road, \n
+  Zhengzhou, Henan, P.R.China.\n
+[duxu@hnas.ac.cn]
 

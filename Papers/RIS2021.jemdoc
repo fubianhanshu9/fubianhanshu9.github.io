@@ -10,8 +10,22 @@
 American Control Conference,
 pages 3126 - 3131, New Orleans, USA, 2021.
 
+
+== Abstract
+Intelligent reflecting surface (IRS) is a plane that integrates a large number of low-cost, low loss,
+reconfigurable passive reflectors. It could intelligently configure signal propagation and improve the spectrum
+efficiency and energy efficiency of wireless network. Specifically, after the position of the user is known, the
+reflected phase of the signal is calculated by using the optimization algorithm to enhance the power received by the
+user. This paper proposes a dual IRS model with cooperative relationship in indoor small-scale environment, which
+uses two IRSs with cooperative relationship to enhance the signal power received by the user when the direct link
+between the base station and the user is unavailable. The phase shift matrixes of the two IRS are used as the
+optimization variables to maximize the signal power received by the user. The problem is a nonconvex network
+optimization problem, which is solved by solver based on interior point optimization, and compared with the model
+without cooperation at the same time. The comparison results show that the model with cooperation relationship has
+a better enhancement effect than the model without cooperation relationship in small-scale environment.
+
 == Download
-- [https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=JGDJ202123007&uniplatform=NZKPT&v=2fqOuK4zqEItCQnP86E__xv8MctFhdOhFcWXlYvrfaNLD04DcL6AK1AhNQHNd73x.html Paper]
+- [RIS2021.pdf Paper]
 
 == Bibtex
 ~~~
@@ -20,6 +34,9 @@ author = {Han, B. and Liang, X. and Xie, Z. and Du, X and He, X.},\n
 title = {Communication Enhancement Model of Intelligent Reflecting Surface Based on Cooperative Relationship
 },\n
 booktitle = {In Proceedings of Laser and Optoelectronics Progress, 2021},\n
+volume={58},\n
+number={23},\n
+pages={2306003},\n
 year = {2021},\n
 pages = {2306003},\n
 }

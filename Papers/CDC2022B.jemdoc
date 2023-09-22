@@ -12,16 +12,33 @@
 61th IEEE Conference on Decision and Control,
  Cancun, Mexico, December, 2022.
 
+== Abstract
+The wireless mobile communication system is
+updated and iterated on the whole almost every decade. It is
+now in the development period of the application scenarios
+of the fifth generation mobile communication system (5G).
+Unfortunately, 5G relies on plenty of small base stations with
+a large number of antennas that consume a lot of energy. In
+this paper, a novel Boolean variable quadratic programming
+algorithm is designed for the antenna selection optimization
+problem to reduce power consumption. Experiments show
+that the proposed algorithm achieves high complementarity
+satisfaction accuracy with only a few steps.
+
+
 == Download
-- [CDC2022B.pdf Paper]
+- [0070.pdf Paper]
 
 == Bibtex
 ~~~
-@INPROCEEDINGS{Du2019,\n
-author = {Zhu, S. and Du, X.},\n
-title = {Alternating Direction Based Sequential Boolean Quadratic Programming Method for Transmit Antenna Selection},\n
-booktitle = {In Proceedings of the 61th IEEE Conference on Decision and Control},\n
-year = {2022},\n
+
+@inproceedings{zhu2022alternating,\n
+  title={Alternating direction based sequential boolean quadratic programming method for transmit antenna selection},\n
+  author={Zhu, Shijie and Du, Xu},\n
+  booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)},\n
+  pages={7491--7496},\n
+  year={2022},\n
+  organization={IEEE}\n
 }
 ~~~
 

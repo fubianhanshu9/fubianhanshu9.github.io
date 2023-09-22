@@ -1,0 +1,44 @@
+# jemdoc: nofooter
+== Consensus ALADIN: A Framework for Distributed Optimization and Its Application in Federated Learning
+
+
+
+== Authors
+- Xu Du, Jingzhe Wang
+
+== Abstract
+This paper investigates algorithms for solving distributed consensus optimization problems that are non-convex. Since
+Typical ALADIN (Typical Augmented Lagrangian based Alternating Direction Inexact Newton Method, T-ALADIN for short) is a
+well-performed algorithm treating distributed optimization problems that are non-convex, directly adopting T-ALADIN to those of
+consensus is a natural approach. However, T-ALADIN typically results in high communication and computation overhead, which makes
+such an approach far from efficient. In this paper, we propose a new variant of the ALADIN family, coined consensus ALADIN
+(C-ALADIN for short). C-ALADIN inherits all the good properties of T-ALADIN, such as the local linear or super-linear convergence rate
+and the local convergence guarantees for non-convex optimization problems; besides, C-ALADIN offers unique improvements in terms
+of communication efficiency and computational efficiency. Moreover, C-ALADIN involves a reduced version, in comparison with
+Consensus ADMM (Alternating Direction Method of Multipliers), showing significant convergence performance, even without the
+help of second-order information. We also propose a practical version of C-ALADIN, named FedALADIN, that seamlessly serves the
+emerging federated learning applications, which expands the reach of our proposed C-ALADIN. We provide numerical experiments to
+demonstrate the effectiveness of C-ALADIN. The results show that C-ALADIN has significant improvements in convergence
+performance.
+
+
+== Download
+- [https://arxiv.org/abs/2306.05662]\n
+
+== Bibtex
+~~~
+
+
+
+@misc{du2023consensus,\n
+      title={Consensus ALADIN: A Framework for Distributed Optimization and Its Application in Federated Learning}, \n
+      author={Xu Du and Jingzhe Wang},\n
+      year={2023},\n
+      eprint={2306.05662},\n
+      archivePrefix={arXiv},\n
+      primaryClass={math.OC}\n
+}
+
+
+~~~
+
