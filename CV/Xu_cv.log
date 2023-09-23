@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.7)  22 SEP 2023 22:26
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.7)  22 SEP 2023 22:21
->>>>>>> 24c0509eb6ebf2e75ce81a4314aa5c614e0d016c
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.7)  23 SEP 2023 10:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -996,7 +992,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 127.
+ne 129.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1004,7 +1000,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 143.
+ne 147.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1012,7 +1008,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 162.
+ne 163.
 
 [1
 
@@ -1025,27 +1021,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-<<<<<<< HEAD
-ne 197.
-
-
-Class scrartcl Warning: Incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 218.
-=======
-ne 224.
->>>>>>> 24c0509eb6ebf2e75ce81a4314aa5c614e0d016c
-
-
-Class scrartcl Warning: Incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 245.
+ne 225.
 
 [2]
 
@@ -1054,7 +1030,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 272.
+ne 247.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1062,7 +1038,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 289.
+ne 278.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1073,57 +1049,52 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 ne 295.
 
 
-Overfull \hbox (2.95436pt too wide) in paragraph at lines 302--304
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 302.
+
+
+Overfull \hbox (2.95436pt too wide) in paragraph at lines 310--313
 []\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Shi-jie Zhu, In-no-va-tion Academy 
 for Mi-crosatel-lite, Chi-nese Academy
  []
 
 
-Overfull \hbox (2.50728pt too wide) in paragraph at lines 309--311
+Overfull \hbox (2.50728pt too wide) in paragraph at lines 318--320
 []\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Boyu Han, In-no-va-tion Academy for
  Mi-crosatel-lite, Chi-nese Academy
  []
 
+[3]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 315.
+ne 322.
 
-[3] [4] (./Xu_cv.aux) ) 
+[4] (./Xu_cv.aux) ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 10145 strings out of 476025
- 187429 string characters out of 5794016
- 1860382 words of memory out of 5000000
- 30396 multiletter control sequences out of 15000+600000
- 524472 words of font info for 94 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 108i,5n,106p,10607b,270s stack positions out of 10000i,1000n,20000p,200000b,200000s
-=======
  10151 strings out of 476025
  187473 string characters out of 5794016
  1860382 words of memory out of 5000000
  30396 multiletter control sequences out of 15000+600000
  524625 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,6n,106p,10600b,272s stack positions out of 10000i,1000n,20000p,200000b,200000s
->>>>>>> 24c0509eb6ebf2e75ce81a4314aa5c614e0d016c
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
-pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/t
-exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/202
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts
-/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw
-/helvetic/uhvb8a.pfb>
-<<<<<<< HEAD
-Output written on Xu_cv.pdf (4 pages, 116323 bytes).
-=======
-Output written on Xu_cv.pdf (4 pages, 118993 bytes).
->>>>>>> 24c0509eb6ebf2e75ce81a4314aa5c614e0d016c
+ 108i,5n,106p,10607b,285s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texli
+ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/typ
+e1/public/cm-super/sfrm1095.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/hel
+vetic/uhvb8a.pfb>
+Output written on Xu_cv.pdf (4 pages, 119335 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
