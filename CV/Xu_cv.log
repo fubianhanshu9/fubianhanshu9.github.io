@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.27)  3 NOV 2023 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.27)  4 JUN 2024 15:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1007,7 +1007,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 163.
+ne 164.
 
 [1
 
@@ -1020,7 +1020,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 243.
+ne 245.
 
 [2]
 
@@ -1029,7 +1029,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 265.
+ne 267.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1037,7 +1037,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 296.
+ne 302.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1045,7 +1045,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 313.
+ne 319.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1053,16 +1053,16 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 320.
+ne 326.
 
 [3]
-Overfull \hbox (2.95436pt too wide) in paragraph at lines 328--331
+Overfull \hbox (2.95436pt too wide) in paragraph at lines 334--337
 []\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Shi-jie Zhu, In-no-va-tion Academy 
 for Mi-crosatel-lite, Chi-nese Academy
  []
 
 
-Overfull \hbox (2.50728pt too wide) in paragraph at lines 336--338
+Overfull \hbox (2.50728pt too wide) in paragraph at lines 342--344
 []\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Boyu Han, In-no-va-tion Academy for
  Mi-crosatel-lite, Chi-nese Academy
  []
@@ -1073,7 +1073,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 340.
+ne 346.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1081,15 +1081,15 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 378.
+ne 384.
 
 [4] [5] (./Xu_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 10151 strings out of 476025
- 188742 string characters out of 5789524
- 1860382 words of memory out of 5000000
+ 10153 strings out of 476025
+ 188758 string characters out of 5789524
+ 1861382 words of memory out of 5000000
  30396 multiletter control sequences out of 15000+600000
- 524625 words of font info for 97 fonts, out of 8000000 for 9000
+ 524733 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,5n,106p,10607b,291s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/software/texlive/2023/texmf-dist/fonts/type1/public/
@@ -1101,7 +1101,7 @@ sfonts/cm/cmti10.pfb><d:/software/texlive/2023/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmtt10.pfb><d:/software/texlive/2023/texmf-dist/fonts/type1/public/cm
 -super/sfrm1095.pfb><d:/software/texlive/2023/texmf-dist/fonts/type1/urw/helvet
 ic/uhvb8a.pfb>
-Output written on Xu_cv.pdf (5 pages, 120776 bytes).
+Output written on Xu_cv.pdf (5 pages, 121661 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
