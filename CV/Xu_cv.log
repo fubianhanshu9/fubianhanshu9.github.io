@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.27)  25 FEB 2025 13:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.27)  25 FEB 2025 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -777,32 +777,43 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 (d:/software/texlive/2023/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
 ))
-(d:/software/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(d:/software/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(d:/software/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-))
-\Gm@cnth=\count278
-\Gm@cntv=\count279
-\c@Gm@tempcnt=\count280
-\Gm@bindingoffset=\dimen154
-\Gm@wd@mp=\dimen155
-\Gm@odd@mp=\dimen156
-\Gm@even@mp=\dimen157
-\Gm@layoutwidth=\dimen158
-\Gm@layoutheight=\dimen159
-\Gm@layouthoffset=\dimen160
-\Gm@layoutvoffset=\dimen161
-\Gm@dimlist=\toks32
-)
 (d:/software/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer' or `scrlayer-scrpage', because
+(scrartcl)              they support KOMA-Script classes.
+(scrartcl)              With `fancyhdr' several features of class `scrartcl'
+(scrartcl)              like options `headsepline', `footsepline' or command
+(scrartcl)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrartcl)              `\addtokomafont' for the page style elements need
+(scrartcl)              explicite user intervention to work.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 38.
+
+(d:/software/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip71
+\f@nch@O@elh=\skip72
+\f@nch@O@erh=\skip73
+\f@nch@O@olh=\skip74
+\f@nch@O@orh=\skip75
+\f@nch@O@elf=\skip76
+\f@nch@O@erf=\skip77
+\f@nch@O@olf=\skip78
+\f@nch@O@orf=\skip79
+)
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 42.
+
 (d:/software/texlive/2023/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
@@ -828,48 +839,48 @@ Class scrartcl Warning: Incompatible package `sectsty' loaded!
 
 (scrartcl)              Ignoring this warning could result in several error
 (scrartcl)              messages and formatting issues after loading package
-(scrartcl)              `sectsty' on input line 44.
+(scrartcl)              `sectsty' on input line 54.
 
-\spacebox=\skip71
+\spacebox=\skip80
 (./Xu_cv.aux)
 \openout1 = `Xu_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-Package scrbase Info: activating english \abstractname on input line 95.
-Package scrbase Info: activating english \partname on input line 95.
-Package scrbase Info: activating english \figurename on input line 95.
-Package scrbase Info: activating english \tablename on input line 95.
-Package scrbase Info: activating english \contentsname on input line 95.
-Package scrbase Info: activating english \listfigurename on input line 95.
-Package scrbase Info: activating english \listtablename on input line 95.
-Package scrbase Info: activating english \refname on input line 95.
-Package scrbase Info: activating english \indexname on input line 95.
-LaTeX Info: Redefining \microtypecontext on input line 95.
-Package microtype Info: Applying patch `item' on input line 95.
-Package microtype Info: Applying patch `toc' on input line 95.
-Package microtype Info: Applying patch `eqnum' on input line 95.
-Package microtype Info: Applying patch `footnote' on input line 95.
-Package microtype Info: Applying patch `verbatim' on input line 95.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+Package scrbase Info: activating english \abstractname on input line 107.
+Package scrbase Info: activating english \partname on input line 107.
+Package scrbase Info: activating english \figurename on input line 107.
+Package scrbase Info: activating english \tablename on input line 107.
+Package scrbase Info: activating english \contentsname on input line 107.
+Package scrbase Info: activating english \listfigurename on input line 107.
+Package scrbase Info: activating english \listtablename on input line 107.
+Package scrbase Info: activating english \refname on input line 107.
+Package scrbase Info: activating english \indexname on input line 107.
+LaTeX Info: Redefining \microtypecontext on input line 107.
+Package microtype Info: Applying patch `item' on input line 107.
+Package microtype Info: Applying patch `toc' on input line 107.
+Package microtype Info: Applying patch `eqnum' on input line 107.
+Package microtype Info: Applying patch `footnote' on input line 107.
+Package microtype Info: Applying patch `verbatim' on input line 107.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 95.
+LaTeX Info: Redefining \showhyphens on input line 107.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -880,17 +891,17 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 )
 (d:/software/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count281
-\scratchdimen=\dimen162
+\scratchcounter=\count278
+\scratchdimen=\dimen154
 \scratchbox=\box57
-\nofMPsegments=\count282
-\nofMParguments=\count283
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count284
-\MPscratchDim=\dimen163
-\MPnumerator=\count285
-\makeMPintoPDFobject=\count286
-\everyMPtoPDFconversion=\toks34
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen155
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks33
 ) (d:/software/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -899,42 +910,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(89.6271pt, 418.25372pt, 89.6271pt)
-* v-part:(T,H,B)=(101.40665pt, 591.53027pt, 152.11002pt)
-* \paperwidth=597.50793pt
-* \paperheight=845.04694pt
-* \textwidth=418.25372pt
-* \textheight=702.62756pt
-* \oddsidemargin=17.35712pt
-* \evensidemargin=17.35712pt
-* \topmargin=-8.26335pt
-* \headheight=17.0pt
-* \headsep=20.40001pt
-* \topskip=11.0pt
-* \footskip=47.6pt
-* \marginparwidth=59.7508pt
-* \marginparsep=12.8401pt
-* \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
-01.
+13.
+
 (d:/software/texlive/2023/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
@@ -949,13 +927,13 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 110.
+ne 122.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 112
+LaTeX Font Info:    Trying to load font information for U+msa on input line 124
 .
 (d:/software/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -963,7 +941,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (d:/software/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 112
+LaTeX Font Info:    Trying to load font information for U+msb on input line 124
 .
 
 (d:/software/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -983,7 +961,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 119.
+ne 131.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -991,7 +969,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 130.
+ne 142.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -999,7 +977,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 148.
+ne 160.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1007,14 +985,13 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 165.
+ne 177.
 
-[1
+[1{d:/software/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-{d:/software/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/soft
-ware/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}{d:/software/texlive/2
-023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 204--208
+{d:/software/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}{d:/software/t
+exlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 216--220
 
  []
 
@@ -1025,7 +1002,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 252.
+ne 264.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1033,7 +1010,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 274.
+ne 286.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1041,7 +1018,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 309.
+ne 321.
 
 [3]
 
@@ -1050,7 +1027,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 326.
+ne 338.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1058,16 +1035,16 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 333.
+ne 345.
 
 
-Overfull \hbox (2.95436pt too wide) in paragraph at lines 341--344
+Overfull \hbox (2.95253pt too wide) in paragraph at lines 353--356
 []\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Shi-jie Zhu, In-no-va-tion Academy 
 for Mi-crosatel-lite, Chi-nese Academy
  []
 
 
-Overfull \hbox (2.50728pt too wide) in paragraph at lines 349--351
+Overfull \hbox (2.50545pt too wide) in paragraph at lines 361--363
 []\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Boyu Han, In-no-va-tion Academy for
  Mi-crosatel-lite, Chi-nese Academy
  []
@@ -1078,7 +1055,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 353.
+ne 365.
 
 [4]
 
@@ -1087,17 +1064,17 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 391.
+ne 403.
 
 [5] (./Xu_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 10156 strings out of 476025
- 188780 string characters out of 5789524
- 1860382 words of memory out of 5000000
- 30397 multiletter control sequences out of 15000+600000
- 524784 words of font info for 99 fonts, out of 8000000 for 9000
+ 9792 strings out of 476025
+ 182783 string characters out of 5789524
+ 1861382 words of memory out of 5000000
+ 30034 multiletter control sequences out of 15000+600000
+ 525345 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,5n,106p,10607b,291s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,11n,106p,10607b,381s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/software/texlive/2023/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><d:/software/texlive/2023/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr10.pfb><d:/software/texlive/2023/texmf-dist/fonts/type1/public/amsfo
@@ -1107,10 +1084,10 @@ ts/cm/cmti10.pfb><d:/software/texlive/2023/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmtt10.pfb><d:/software/texlive/2023/texmf-dist/fonts/type1/public/cm-sup
 er/sfrm1095.pfb><d:/software/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/u
 hvb8a.pfb>
-Output written on Xu_cv.pdf (5 pages, 122515 bytes).
+Output written on Xu_cv.pdf (5 pages, 123119 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 24065 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 26113 words of extra memory for PDF output out of 29859 (max. 10000000)
 

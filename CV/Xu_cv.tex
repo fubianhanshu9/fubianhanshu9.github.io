@@ -31,12 +31,22 @@
 \usepackage{amsmath,amsfonts,amsthm}     % Math packages
 \usepackage{graphicx}                    % Enable pdflatex
 \usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
-\usepackage{geometry}
+%\usepackage[bottom=3cm]{geometry}
 	\textheight=700px                    % Saving trees ;-)
 \usepackage{url}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % 清除原有设置
+%\fancyhead[L]{Xu Du's CV}
+\fancyhead[RO]{Xu Du's CV\slshape \leftmark}
+\fancyhead[LE]{Xu Du's CV\slshape \rightmark}
+\fancyfoot[C]{\thepage}
+%\fancyfoot{\empty}
+%\fancyfoot[C]{\thepage} % 页码居中
 
 \frenchspacing              % Better looking spacings after periods
-\pagestyle{empty}           % No pagenumbers/headers/footers
+           % No pagenumbers/headers/footers
+      
 
 %%% Custom sectioning (sectsty package)
 %%% ------------------------------------------------------------
@@ -90,6 +100,8 @@
 		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
 		\normalsize \par}
 
+
+\pagestyle{fancy}
 %%% Begin Document
 %%% ------------------------------------------------------------
 \begin{document}
@@ -403,4 +415,6 @@ ShanghaiTech University:
 %%% ------------------------------------------------------------
 %\NewPart{References}{}
 %Available upon request
+\vspace{5cm}
+\centering{\emph{Last updated on 25.2.2025}} 
 \end{document}
