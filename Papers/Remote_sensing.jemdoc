@@ -1,0 +1,37 @@
+# jemdoc: nofooter
+== DRL-Based Dynamic Destroy Approaches for Agile-Satellite Mission Planning
+
+
+== Authors
+- Wei Huang, Zongwang Li, Xiaohe He, Junyan Xiang, Xu Du, Xuwen Liang
+
+
+== Reference
+- Remote Sensing 2023, 15(18), 4503
+
+== Abstract
+Agile-satellite mission planning is a crucial issue in the construction of satellite constellations. The large scale of remote sensing missions and the high complexity of constraints in agile-satellite mission planning pose challenges in the search for an optimal solution. To tackle the issue, a dynamic destroy deep-reinforcement learning (D3RL) model is designed to facilitate subsequent optimization operations via adaptive destruction to the existing solutions. Specifically, we first perform a clustering and embedding operation to reconstruct tasks into a clustering graph, thereby improving data utilization. Secondly, the D3RL model is established based on graph attention networks (GATs) to enhance the search efficiency for optimal solutions. Moreover, we present two applications of the D3RL model for intensive scenes: the deep-reinforcement learning (DRL) method and the D3RL-based large-neighborhood search method (DRL-LNS). Experimental simulation results illustrate that the D3RL-based approaches outperform the competition in terms of solutions\' quality and computational efficiency, particularly in more challenging large-scale scenarios. DRL-LNS outperforms ALNS with an average scheduling rate improvement of approximately 11\% in Area instances. In contrast, the DRL approach performs better in World scenarios, with an average scheduling rate that is around 8\% higher than that of ALNS.
+
+== Download
+- [https://www.mdpi.com/2072-4292/15/18/4503]\n
+
+== Bibtex
+~~~
+
+
+@article{huang2023drl,\n
+  title={Drl-based dynamic destroy approaches for agile-satellite mission planning},\n
+  author={Huang, Wei and Li, Zongwang and He, Xiaohe and Xiang, Junyan, Du, Xu and Liang, Xuwen},\n
+  journal={Remote Sensing},\n
+  volume={15},\n
+  number={18},\n
+  pages={4503},\n
+  year={2023},\n
+  publisher={MDPI}\n
+}
+
+
+
+
+
+~~~

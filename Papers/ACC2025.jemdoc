@@ -1,0 +1,48 @@
+# jemdoc: nofooter
+== Distributed Consensus Optimization with Consensus ALADIN
+
+
+== Authors
+- Xu Du, Jingzhe Wang 
+
+== Reference
+- To be apper in 
+American Control Conference,  Denver, Colorado, USA, 2025.
+
+== Abstract
+The paper proposes the Consensus Augmented
+ Lagrange Alternating Direction Inexact Newton (Consensus ALADIN) algorithm, a novel approach for solving dis
+tributed consensus optimization problems (DC). Consensus
+ ALADIN allows each agent to independently solve its own
+ nonlinear programming problem while coordinating with
+ other agents by solving a consensus quadratic program
+ming (QP) problem. Building on this, we propose Broyden-Fletcher-Goldfarb-Shanno (BFGS) Consensus ALADIN, a
+ communication-and-computation-efficient Consensus ALADIN.
+ BFGS Consensus ALADIN improves communication efficiency
+ through BFGS approximation techniques and enhances compu
+tational efficiency by deriving a closed form for the consensus
+ QP problem. Additionally, by replacing the BFGS approxi
+mation with a scaled identity matrix, we develop Reduced
+ Consensus ALADIN, a more computationally efficient variant.
+ We establish the convergence theory for Consensus ALADIN
+ and demonstrate its effectiveness through application to a non
+convex sensor allocation problem.
+
+== Download
+- [ACC2025.pdf Paper]
+
+== Bibtex
+~~~
+
+@inproceedings{Du2025,\n
+	title={Distributed Consensus Optimization with Consensus {ALADIN}}, \n
+	author={Xu Du and Jingzhe Wang},\n
+        booktitle = {American Control Conference},\n
+	year={2025 (accepted for publication)}\n
+}
+
+
+
+
+~~~
+

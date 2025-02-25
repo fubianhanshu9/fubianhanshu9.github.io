@@ -1,0 +1,45 @@
+# jemdoc: nofooter
+== Cram\'er-Rao Bound Based Waveform Optimization for MIMO Radar: An Efficient Linear-Proximal Method
+
+
+
+== Authors
+- Xiaohua Zhou, Xu Du, Yijie Mao
+
+== Abstract
+This paper focuses on radar waveform optimization
+for minimizing the Cramer-Rao bound (CRB) in a multiple-input 
+multiple-output (MIMO) radar system. In contrast to conventional approaches relying on semi-definite programming (SDP)
+and optimization toolboxes like CVX, we introduce a pioneering
+and efficient waveform optimization approach in this paper. Our
+proposed algorithm first applies sequential linear approximation
+to transform the original CRB-based problem with the transmit
+power constraint into a sequence of convex subproblems. By
+introducing a proximal term and further leveraging the KarushKuhn-Tucker (KKT) conditions, we derive the optimal closedform solution for each subproblem. The convergence of the
+proposed algorithm is then proved rigorously. Numerical results
+demonstrate that the proposed approach significantly reduces
+computational complexity - at least two orders of magnitude
+lower than the baseline algorithms while maintaining the same
+radar sensing accuracy.
+
+== Download
+- [https://arxiv.org/pdf/2409.12569]\n
+(Accepted by Globecom Workshop 2024)\n
+
+== Bibtex
+~~~
+
+
+
+@misc{zhou2024cramerraoboundbasedwaveform,\n
+      title={Cram\'er-Rao Bound Based Waveform Optimization for MIMO Radar: An Efficient Linear-Proximal Method}, \n
+      author={Xiaohua Zhou and Xu Du and Yijie Mao},\n
+      year={2024},\n
+      eprint={2409.12569},\n
+      archivePrefix={arXiv},\n
+      primaryClass={eess.SP},\n
+      url={https://arxiv.org//abs//2409.12569}\n
+}
+
+
+~~~
