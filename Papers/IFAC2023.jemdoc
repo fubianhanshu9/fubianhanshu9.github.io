@@ -21,7 +21,7 @@ Microgrids are increasingly being utilized to increase the resilience and operat
 
 @article{Du2023,\n
 author = {Du, X. and Zhu, Shijie. and Wang, Y. and Han, B. and He, X.},\n
-title = {Optimal Resilience Design of AC Microgrid using AO-SBQP Method},\n
+title = {Optimal Resilience Design of {AC} Microgrid using {AO-SBQP} Method},\n
 booktitle = {In Proceedings of the 22nd IFAC World Congress, Yokohama, Japan},\n
 year = {2023},\n
 pages = {1565-1570},\n

@@ -27,7 +27,7 @@ convergence. The performance of the proposed method is illustrated on a case stu
 ~~~
 @INPROCEEDINGS{Du2020,\n
 author = {Du, X. and Engelmann, A. and Jiang, Y. and Faulwasser, T. and Houska, B.},\n
-title = {Optimal experiment design for AC power systems admittance estimation},\n
+title = {Optimal experiment design for {AC} power systems admittance estimation},\n
 booktitle = {In Proceedings of the 21st IFAC World Congress, Berlin, Germany},\n
 year = {2020},\n
 pages = {13311-13316},\n
