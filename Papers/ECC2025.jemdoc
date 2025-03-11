@@ -1,0 +1,27 @@
+# jemdoc: nofooter
+== Convergence Theory of Flexible ALADIN for Distributed Optimization
+
+
+
+
+== Authors
+- Xu Du, Xiaohua Zhou, Shijie Zhu.
+
+== Reference
+- In Proceedings of the 23rd European Control Conference (ECC)\n
+
+
+ (Available soon)
+
+
+== Bibtex
+~~~
+
+@inproceedings{Du2025,\n
+  title={Convergence Theory of Flexible ALADIN for Distributed Optimization},\n
+  author={Du, Xu and Zhou, Xiaohua and Zhu, Shijie},\n
+  booktitle={2025 IEEE 23rd European Control Conference (ECC)
+},\n
+}
+~~~
+
