@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.7)  8 MAR 2025 07:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.7)  15 MAR 2025 10:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1039,24 +1039,12 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 ne 349.
 
 
-Overfull \hbox (2.95253pt too wide) in paragraph at lines 357--360
-[]\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Shi-jie Zhu, In-no-va-tion Academy 
-for Mi-crosatel-lite, Chi-nese Academy
- []
-
-
-Overfull \hbox (2.50545pt too wide) in paragraph at lines 365--367
-[]\OT1/cmr/m/n/10.95 (-20) Co-supervisor of Boyu Han, In-no-va-tion Academy for
- Mi-crosatel-lite, Chi-nese Academy
- []
-
-
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 369.
+ne 376.
 
 [4]
 
@@ -1065,29 +1053,37 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 407.
+ne 414.
 
-[5] (./Xu_cv.aux) ) 
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 425.
+
+[5] [6] (./Xu_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 9792 strings out of 476025
- 181559 string characters out of 5794016
+ 9798 strings out of 476025
+ 181605 string characters out of 5794016
  1861382 words of memory out of 5000000
  30034 multiletter control sequences out of 15000+600000
- 525345 words of font info for 102 fonts, out of 8000000 for 9000
+ 525498 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,11n,106p,10607b,381s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texli
-ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1095.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/hel
-vetic/uhvb8a.pfb>
-Output written on Xu_cv.pdf (5 pages, 123191 bytes).
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts
+/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw
+/helvetic/uhvb8a.pfb>
+Output written on Xu_cv.pdf (6 pages, 129160 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 65 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26113 words of extra memory for PDF output out of 29859 (max. 10000000)
 
