@@ -1,0 +1,444 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LaTeX Template: Curriculum Vitae
+%
+% Source: http://www.howtotex.com/
+% Feel free to distribute this template, but please keep the
+% referal to HowToTeX.com.
+% Date: July 2011
+%Version for spanish users, by dgarhdez
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% How to use writeLaTeX: 
+%
+% You edit the source code here on the left, and the preview on the
+% right shows you the result within a few seconds.
+%
+% Bookmark this page and share the URL with your co-authors. They can
+% edit at the same time!
+%
+% You can upload figures, bibliographies, custom classes and
+% styles using the files menu.
+%
+% If you're new to LaTeX, the wikibook is a great place to start:
+% http://en.wikibooks.org/wiki/LaTeX
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[paper=a4,fontsize=11pt]{scrartcl} % KOMA-article class
+
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{amsmath,amsfonts,amsthm}     % Math packages
+\usepackage{graphicx}                    % Enable pdflatex
+\usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
+%\usepackage[bottom=3cm]{geometry}
+\textheight=700px                    % Saving trees ;-)
+\usepackage{url}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % 清除原有设置
+%\fancyhead[L]{Xu Du's CV}
+\fancyhead[RO]{Xu Du's CV\slshape \leftmark}
+\fancyhead[LE]{Xu Du's CV\slshape \rightmark}
+\fancyfoot[C]{\thepage}
+%\fancyfoot{\empty}
+%\fancyfoot[C]{\thepage} % 页码居中
+
+\frenchspacing              % Better looking spacings after periods
+% No pagenumbers/headers/footers
+
+
+%%% Custom sectioning (sectsty package)
+%%% ------------------------------------------------------------
+\usepackage{sectsty}
+
+\sectionfont{%			            % Change font of \section command
+	\usefont{OT1}{phv}{b}{n}%		% bch-b-n: CharterBT-Bold font
+	\sectionrule{0pt}{0pt}{-5pt}{1pt}}
+
+%%% Macros
+%%% ------------------------------------------------------------
+\newlength{\spacebox}
+\settowidth{\spacebox}{8888888888}			% Box to align text
+\newcommand{\sepspace}{\vspace*{1em}}		% Vertical space macro
+
+\newcommand{\MyName}[1]{ % Name
+	\Huge \usefont{OT1}{phv}{b}{n} \hfill #1
+	\par \normalsize \normalfont}
+
+\newcommand{\MySlogan}[1]{ % Slogan (optional)
+	\large \usefont{OT1}{phv}{m}{n}\hfill \textit{#1}
+	\par \normalsize \normalfont}
+
+\newcommand{\NewPart}[1]{\section*{\uppercase{#1}}}
+
+\newcommand{\PersonalEntry}[2]{
+	\noindent\hangindent=2em\hangafter=0 % Indentation
+	\parbox{\spacebox}{        % Box to align text
+		\textit{#1}}		       % Entry name (birth, address, etc.)
+	\hspace{1.5em} #2 \par}    % Entry value
+
+\newcommand{\SkillsEntry}[2]{      % Same as \PersonalEntry
+	\noindent\hangindent=2em\hangafter=0 % Indentation
+	\parbox{\spacebox}{        % Box to align text
+		\textit{#1}}			   % Entry name (birth, address, etc.)
+	\hspace{1.5em} #2 \par}    % Entry value	
+
+\newcommand{\EducationEntry}[4]{
+	\noindent \textbf{#1} \hfill      % Study
+	\colorbox{White}{%
+		\parbox{5cm}{%
+			\hfill\color{Black}#2}} \par  % Duration
+	\noindent \textit{#3} \par        % School
+	\noindent\hangindent=2em\hangafter=0 \small #4 % Description
+	\normalsize \par}
+
+\newcommand{\WorkEntry}[4]{				  % Same as \EducationEntry
+	\noindent \textbf{#1} \hfill      % Jobname
+	\noindent\colorbox{Black}{\color{White}#2} \par  % Duration
+	\noindent \textit{#3} \par              % Company
+	\noindent\hangindent=2em\hangafter=0 \small #4 % Description
+	\normalsize \par}
+
+
+\pagestyle{fancy}
+%%% Begin Document
+%%% ------------------------------------------------------------
+\begin{document}
+	% you can upload a photo and include it here...
+	%\begin{wrapfigure}{l}{0.5\textwidth}
+	%	\vspace*{-2em}
+	%		\includegraphics[width=0.15\textwidth]{photo}
+	%\end{wrapfigure}
+	{\centering{ \Huge \usefont{OT1}{phv}{b}{n} {Xu Du}}
+		\par \normalsize \normalfont}
+	%\MyName{Xu Du}
+	%\MySlogan{Nombre de tu carrera}
+	
+	%\sepspace
+	
+	%%% Personal details
+	%%% ------------------------------------------------------------
+	\NewPart{CONTACT INFO}{}
+	
+	\PersonalEntry{Address:}{No. 1 Du Xue Road,  Guangzhou, Guangdong, China}
+	%\PersonalEntry{Address}{111 First St, New York}
+	\PersonalEntry{Website:}{https://fubianhanshu9.github.io/index.html}
+	\PersonalEntry{E--Mail:}{\url{duxu@hnas.ac.cn}}%{\url{duxu@shanghaitech.edu.cn}}
+	
+	%%% Education
+	%%% ------------------------------------------------------------
+	\NewPart{EXPERIENCE}{}
+	\begin{itemize}
+		\item Research Assistant (soon to be a postdoctoral researcher), The Hong Kong University of Science and Technology (Guangzhou), 2025.3-now.
+		\item Assistant Researcher, Institute of Mathematics HNAS, Henan Academy of Science,
+		2023.7-2025.3.
+		\item Postdoctoral Researcher, National Key Laboratory of Science and Technology
+		on Communications, University of Electronic Science and Technology of China,
+		2023.1-2023.6.
+	\end{itemize}
+	
+	%\textbf{Boris Houska}
+	\NewPart{EDUCATION}{}
+	
+	\EducationEntry{University of Chinese Academy of Sciences\\
+		Shanghai Institute of Microsystem and Information Technology, Chinese
+		Academy of Sciences}{Sep.2017-Sep.2022}{Ph.D,  Communication and Information Systems Engineering (Supervised by Boris Houska, ShanghaiTech University)}
+	%{\begin{itemize}
+			%\item{Especialidad }
+			%\item{Asignaturas más relevantes de carrera/especialidad}
+			%\item{Proyecto de fin de carrera: \emph{título del proyecto}}
+			%\end{itemize}
+			%}
+		
+		\sepspace
+		
+		\EducationEntry{Zhengzhou  University}{Sep.2013-June.2017}{B.E,Computer Science, School of Information Engineering  }
+		
+		%%% Work experience
+		%%% ------------------------------------------------------------
+		\NewPart{RESEARCH INTERESTS}{}
+		%\EducationEntry{Power System State Estimation}
+		\begin{itemize}
+			
+			\item{Distributed Optimization}: relates to  \textbf{C1},\textbf{C8},\textbf{C9}. 
+			\item{Optimal Experiment Design}:relates to  \textbf{C2},\textbf{C3},\textbf{C5},\textbf{C7}. 
+			
+			
+	
+			
+		\end{itemize}
+		
+		
+		\NewPart{PUBLICATION}{}
+		$\dag$:  equal contribution
+		%\textbf{Conference Paper}
+		%\EducationEntry{Power System State Estimation}
+		%\section{Conference}
+		\begin{itemize}
+			
+			
+			\item [\textbf{C9}]   {\textbf{X.Du}, X.Zhou, S.Zhu, Apostolos.I.Rikos \\
+				{ Convergence Theory of Flexible ALADIN for Distributed Optimization.}\\
+				\emph{European Control Conference (ECC), Thessaloniki, Greece, 2025.\\(Accepted)
+			} }
+			
+			\item [\textbf{C8}]   {\textbf{X.Du}, J.Wang. \\
+				{ Distributed Consensus Optimization with Consensus ALADIN.}\\
+				\emph{American Control Conference (ACC), Denver, Colorado, 2025.\\(Accepted)
+			} }
+			
+		
+			\item [\textbf{C7}]   {X.Zhou, \textbf{X.Du},   Y.Mao. \\
+				{Cram\'er-Rao Bound Based Waveform Optimization for MIMO Radar: An Efficient Linear-Proximal Method}\\
+				\emph{Globecom Workshop 2024
+			} }
+			
+		
+			
+			%	
+			%		\item  {\textbf{Xu Du}, Jingzhe Wang. \\
+				%		{Consensus ALADIN: A Framework for Distributed Optimization and Its Application
+					%			in Federated Learning}\\
+				%		\emph{Submit to IEEE Transactions on Pattern Analysis and Machine Intelligence\\
+					%			(under review)
+					%	} }
+			
+			\item [\textbf{J2}]   {W Huang, Z Li, X He, J Xiang, \textbf{X.Du}, X Liang. \\
+				{DRL-based dynamic destroy approaches for agile-satellite mission planning.}\\
+				\emph{Remote Sensing\\
+			} }
+			
+			
+			\item [\textbf{C6}]   {\textbf{X.Du}$^{\dag}$, S.Zhu$^{\dag}$, Y.Wang$^{\dag}$, B.Han$^{\dag}$, X.He$^{\dag}$. \\
+				{Optimal Resilience Design of AC Microgrid using AO-SBQP Method.}\\
+				\emph{The 22nd IFAC World Congress, Yokohama, Japan, 2023
+			} }
+			
+			\item [\textbf{C5}]   { \textbf{X.Du}, A.Engelmann, T.Faulwasser, B.Houska. \\
+				{Approximations for Optimal Experimental Design
+					in Power System Parameter Estimation. }\\
+				\emph{ The 61th IEEE Conference on Decision and Control (CDC), Canc\'un, Mexico, 2022 (invited session)
+			} }
+			
+			
+			\item [\textbf{C4}]   { S.Zhu$^{\dag}$, \textbf{X.Du}$^{\dag}$. \\
+				{Alternating Direction Based Sequential Boolean Quadratic Programming Method for Transmit Antenna Selection.}\\
+				\emph{ The 61th IEEE Conference on Decision and Control (CDC), Canc\'un, Mexico, 2022
+			} }
+			
+			\item [\textbf{J1}]   { B.Han, X.Liang, Z.Xie, \textbf{X.Du}, X.He. \\
+				{Communication Enhancement Model of Intelligent Reflecting Surface Based on Cooperative Relationship. (in Chinese)}\\
+				\emph{Laser $\&$ Optoelectronics Progress, 2021
+			} }
+			
+			\item [\textbf{C3}]   { \textbf{X.Du}, A.Engelmann, T.Faulwasser, B.Houska. \\
+				{Online power system parameter estimation and optimal operation.}\\
+				\emph{In Proceedings of the 2021 American Control Conference (ACC), New Orleans, USA May, 2021
+			} }
+			
+			\item [\textbf{C2}]   {\textbf{X.Du}, A.Engelmann, Y.Jiang, T.Faulwasser, B.Houska. \\
+				Optimal Experiment Design for AC Power Systems Admittance Estimation.\\
+				\emph{In Proceedings of the 21rst IFAC World Congress, Berlin, Germany, July, 2020
+			} }
+			
+			\item [\textbf{C1}]  {\textbf{X.Du}, A.Engelmann, Y.Jiang, T.Faulwasser, B.Houska. \\
+				Distributed State Estimation for AC Power Systems using Gauss-Newton ALADIN. \\
+				\emph{In Proceedings of the 58th IEEE Conference on Decision and Control (CDC),
+					Nice, France, December, 2019.} }
+			%\item{Optimal Experimental Design}
+			%\item{Función 3}
+		\end{itemize}
+		%\textbf{Journal Article }
+		%\section{Journal}
+		
+		\NewPart{Professional Service}{Conference Session Chair/Co-chair}
+		%
+		%\EducationEntry{Título trabajo 1}{Periodo}{Empresa}{
+			\begin{itemize}
+				\item{Co-chair of the invited session for the 61st
+					IEEE Conference on Decision and Control (CDC 2022)
+					“Trends in Optimization for Power Systems”, Canc\'un, Mexico}\\
+				(together with Alexander Engelmann, Yuning Jiang, Timm Faulwasser, Boris Houska)
+			\end{itemize}
+			{Technical Meetings—Leadership Roles}
+			\begin{itemize}
+				\item{Co-organizer, International Workshop on Advanced Methods for Control and Estimation of Dynamic
+					Systems (AMCEDS 2018), ShanghaiTech University, Shanghai, China, July 23, 2018}
+				%\item{Función 2}
+				%\item{Función 3}
+			\end{itemize}
+			{Technical Reviewer}
+			\begin{itemize}
+				\item Selected journals: Optimal Control Applications $\&$ Methods
+				\item Selected international conferences: IEEE CDC, IFAC World Congress, ICCA
+			\end{itemize}
+			
+			\NewPart{PRESENTATION}{}
+			\begin{itemize}
+				\item  {
+					{Robust Convergence Analysis of Distributed Optimization Algorithms}\\
+					\emph{Singapore University of Technology and Design, Singapore, March 4th, 2024 (Online)
+				} }
+				
+				\item  {
+					{Sub-linear Convergence of ADMM}\\
+					\emph{ShanghaiTech, China, December 8th, 2022 (Online)
+				} }
+				
+				\item  {
+					{Distributed Optimization with ADMM and ALADIN}\\
+					\emph{Innovation Academy for Microsatellite, Chinese Academy of Sciences, China,
+						November, 2021
+				} }
+				
+				\item  {
+					{Online power system parameter estimation and optimal operation}\\
+					\emph{2021 American Control Conference (ACC), New Orleans, USA May, 2021 (online)
+				} }
+				
+				\item  {
+					Optimal Experiment Design for AC Power Systems Admittance Estimation\\
+					\emph{21rst IFAC World Congress, Berlin, Germany, July, 2020 (online)
+				} }
+				
+				\item  {
+					Distributed State Estimation for AC Power Systems using Gauss-Newton ALADIN 
+					\emph{58th IEEE Conference on Decision and Control (CDC),
+						Nice, France, December, 2019.} }
+			\end{itemize}
+			
+			
+			\NewPart{HONORS AND AWARDS}
+			\begin{itemize}
+				\item Merit Student, ShanghaiTech University, 2019-2020
+				
+				\item SIST Outstanding Teaching Assistant Award, ShanghaiTech University, 2019-2020
+				
+				%\item SIST Outstanding Teaching Assistant Award, ShanghaiTech University, 2019
+				
+				\item Outstanding Student Award, Zhengzhou University, 2014-2017
+				
+				\item YiSheng Scholarship, Zhengzhou University, 2015
+				
+				
+			\end{itemize}
+			%\sepspace
+			%
+			%\EducationEntry{Título trabajo 2}{Periodo}{Empresa}{Descripción, habilidades}
+			\NewPart{URL Links}
+			\begin{itemize}
+				\item Google Scholar: \url{https://scholar.google.com/citations?user=OnIuCR0AAAAJ}
+				\item ResearchGate: \url{https://www.researchgate.net/profile/Xu-Du-9}
+				\item ORCID: \url{https://orcid.org/my-orcid?orcid=0009-0007-6789-1222}
+			\end{itemize}
+			
+			\NewPart{Advising}
+			
+			Main supervised Student:
+			\begin{itemize}
+				\item Main supervisor of \textbf{Shuting Wu}, School of Mathematics and Statistics, North China University of Water Resources and Electric Power (NCWU) and Henan Acamedy of Science, 2024-2027. 
+			\end{itemize}
+			
+			Co-supervised Students:
+			\begin{itemize}
+				
+				
+			
+				
+				\item Co-supervisor of \textbf{Shijie Zhu}, Innovation Academy for Microsatellite, Chinese Academy
+				of Sciences and ShanghaiTech University, 2021-2023. (Master 2023, now with China
+				Telecom)
+				
+				
+				\item Co-supervisor of \textbf{Yifei Wang}, Innovation Academy for Microsatellite, Chinese
+				Academy of Sciences and ShanghaiTech University, 2021-2023. (now Ph.D in Shanghai Jiaotong University)
+				
+				\item Co-supervisor of \textbf{Boyu Han}, Innovation Academy for Microsatellite, Chinese Academy
+				of Sciences, 2021. (Master 2021, now Ph.D in Shanghai Jiaotong University)
+			\end{itemize}
+			
+			\NewPart{Teaching}
+			
+			ShanghaiTech University:
+			\begin{itemize}
+				
+				
+				\item{Teaching Assistant, 	Introduction to Communication Systems (EE140), ShanghaiTech University, Fall 2021 (Instructor: Professor Lixiang Lian).}
+				
+				\item{Teaching Assistant, Signals and Systems Lab(EE150L), ShanghaiTech University, Spring 2021 (Instructor: Linyan Lu and Ping Wang).}
+				
+				\item{Teaching Assistant, Introduction to Control(EE160), ShanghaiTech University, Fall 2020\\ 
+					\url{https://faculty.sist.shanghaitech.edu.cn/faculty/boris/courses.html}\\
+					(Instructor: Professor Boris Houska and Professor Yang Wang).
+				}
+				
+				\item{Teaching Assistant, Introduction to Control Project(EE160P), ShanghaiTech University, Fall 2020\\ (Instructor: Professor Boris Houska and Professor Yang Wang).}
+				
+				\item{Teaching Assistant, Signals and Systems(EE150),  ShanghaiTech University, Spring 2020 \\ (Instructor: Professor Yong Zhou, Professor Ziping Zhao, Professor Xin Lou and Professor Lin Xu).}
+				
+				\item{Teaching Assistant, Numerical Analysis(SI211), ShanghaiTech University, Fall 2019\\ 
+					\url{https://faculty.sist.shanghaitech.edu.cn/faculty/boris/courses.html}\\
+					(Instructor: Professor Boris Houska).
+				}
+				
+				\item{Teaching Assistant, Design Thinking, ShanghaiTech University, Fall 2018 and Spring 2019.\\ (Instructor: Professor Ding Lu, Professor Xiyi Yang and Professor Xue Chen) }
+				
+				\item{Teaching Assistant, Signals and Systems(EE150),  ShanghaiTech University, Spring 2018 (Instructor: Professor Yanlin Geng)
+					
+				}
+				%	\item{Teaching Assistant, Design Thinking, ShanghaiTech University, Fall 2018.}
+				%	\item{Teaching Assistant, Signals and Systems,  ShanghaiTech University, Spring 2018}
+				
+				
+				
+			\end{itemize}
+			%\SkillsEntry{}{}
+			
+			
+			
+			\NewPart{Referees}
+			
+			\begin{itemize}
+				\item \textbf{Prof. Apostolos Rikos} {\hfill Postdoc Supervisor}\\
+				Assistant Professor\\ Artifcial Intelligence Thrust, Information Hub\\
+				The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China\\
+				E--Mail: \url{apostolosr@hkust-gz.edu.cn}
+				
+				\item \textbf{Prof. Yijie Mao} {\hfill Collaborator}\\
+				Assistant Professor\\ NICE Center, School of Information Science and
+				Technology, ShanghaiTech University, Shanghai, China\\
+				E--Mail: \url{maoyj@shanghaitech.edu.cn}
+				
+				\item \textbf{Prof. Kwan-Wu Chin} {\hfill Collaborator}\\
+				Professor\\  School of Electrical, Computer and Telecommunications Engineering (SECTE), University of Wollongong, Wollongong, Australia \\
+				E--Mail: \url{kwanwu@uow.edu.au}
+				
+				
+				
+				
+				
+				\item \textbf{Sania Asif} {\hfill Collaborator}\\
+				Assistant Researcher \\Institute of Mathematics, Henan Acamedy of Science, Zhengzhou, China \\
+				E--Mail: \url{11835037@zju.edu.cn}
+				
+				
+				
+				
+				\item \textbf{Prof. Boris Houska} {\hfill Ph.D Supervisor}\\
+				Associate Professor\\ STAR Center, School of Information Science and
+				Technology, ShanghaiTech University, Shanghai, China\\
+				E--Mail: \url{borish@shanghaitech.edu.cn}
+				
+				\item \textbf{Prof. S\"oren Schwertfeger} {\hfill Director of STAR Center}\\
+				Associate Professor\\ STAR Center, School of Information Science and
+				Technology, ShanghaiTech University, Shanghai, China. Director of Mobile Autonomous Robotic Systems Lab (MARS Lab)\\
+				E--Mail: \url{soerensch@shanghaitech.edu.cn}
+			\end{itemize}
+			%%% References
+			%%% ------------------------------------------------------------
+			%\NewPart{References}{}
+			%Available upon request
+			\vspace{5cm}
+			\centering{\emph{Last updated on April 24, 2025}} 
+		\end{document}
