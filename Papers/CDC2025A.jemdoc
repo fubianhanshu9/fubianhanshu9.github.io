@@ -1,0 +1,34 @@
+# jemdoc: nofooter
+== Decentralized Optimization via RC-ALADIN with Efficient Quantized Communication
+
+
+
+
+== Authors
+- Xu Du,  Karl H. Johansson, and Apostolos I. Rikos.
+
+== Reference
+- In Proceedings of the
+64th IEEE Conference on Decision and Control,
+ Rio de Janeiro, Brazil, 2025.
+
+== Abstract
+In this paper, we investigate the problem of decentralized consensus optimization over directed graphs with limited communication bandwidth. 
+We introduce a novel decentralized optimization algorithm that combines the Reduced Consensus Augmented Lagrangian Alternating Direction Inexact Newton (RC-ALADIN) method with a finite time quantized coordination protocol, enabling quantized information exchange among nodes. Assuming the nodes' local objective functions are $\mu$-strongly convex and simply smooth, we establish global convergence at a linear rate to a neighborhood of the optimal solution, with the neighborhood size determined by the quantization level. 
+Additionally, we show that the same convergence result also holds for the case where the local objective functions are convex and $L$-smooth. 
+Numerical experiments demonstrate that our proposed algorithm compares favorably against algorithms in the current literature while exhibiting communication efficient operation.
+
+== Download
+- [will Available soon]
+
+== Bibtex
+~~~
+
+@inproceedings{Du2025CDCA,\n
+  title={Decentralized Optimization via RC-ALADIN with Efficient Quantized Communication},\n
+  author={Xu Du,  Karl H. Johansson, and Apostolos I. Rikos.},\n
+  booktitle={2022 IEEE 64th Conference on Decision and Control (CDC)},\n
+   organization={IEEE}\n
+}
+~~~
+

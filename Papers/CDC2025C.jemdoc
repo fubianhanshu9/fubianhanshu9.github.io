@@ -1,0 +1,30 @@
+# jemdoc: nofooter
+== ALADIN-\beta: A Distributed Optimization Algorithm for Solving MPCC Problems
+
+== Authors
+- Yifei Wang, Shuting Wu, Genke Yang, Jian Chu, Apostolos. I. Rikos and Xu Du
+
+
+== Reference
+- In Proceedings of the
+64th IEEE Conference on Decision and Control,
+ Rio de Janeiro, Brazil, 2025.
+
+== Abstract
+Mathematical Programs with Complementarity Constraints (MPCC) are critical in various real-world applications but notoriously challenging due to non-smoothness and degeneracy from complementarity constraints. The L1-Exact Penalty-Barrier enhanced IPOPT improves performance and robustness by introducing additional inequality constraints and decision variables. However, this comes at the cost of increased computational complexity due to the higher dimensionality and additional constraints introduced in the centralized formulation. To mitigate this, we propose a distributed structure-splitting reformulation that decomposes these inequality constraints and auxiliary variables into independent sub-problems. Furthermore, we introduce Augmented Lagrangian Alternating Direction Inexact Newton (ALADIN)-\beta, a novel approach that integrates the L1-Exact Penalty-Barrier method with ALADIN to efficiently solve the distributed reformulation. Numerical experiments demonstrate that even without a globalization strategy, the proposed distributed approach achieves fast convergence while maintaining high precision.
+
+
+== Download
+- [will Available soon]
+
+== Bibtex
+~~~
+
+@inproceedings{Du2025CDCA,\n
+  title={Decentralized Optimization via RC-ALADIN with Efficient Quantized Communication},\n
+  author={Yifei Wang, Shuting Wu, Genke Yang, Jian Chu, Apostolos. I. Rikos and Xu Du.},\n
+  booktitle={2022 IEEE 64th Conference on Decision and Control (CDC)},\n
+   organization={IEEE}\n
+}
+~~~
+
