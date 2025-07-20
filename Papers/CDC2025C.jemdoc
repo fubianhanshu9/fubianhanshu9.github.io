@@ -23,7 +23,7 @@ Mathematical Programs with Complementarity Constraints (MPCC) are critical in va
 @inproceedings{Du2025CDCC,\n
   title={Decentralized Optimization via RC-ALADIN with Efficient Quantized Communication},\n
   author={Yifei Wang, Shuting Wu, Genke Yang, Jian Chu, Apostolos. I. Rikos and Xu Du.},\n
-  booktitle={2022 IEEE 64th Conference on Decision and Control (CDC)},\n
+  booktitle={2025 IEEE 64th Conference on Decision and Control (CDC)},\n
    organization={IEEE}\n
 }
 ~~~

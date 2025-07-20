@@ -24,7 +24,7 @@ Direction Inexact Newton (ALADIN) to achieve computational efficiency. Additiona
 @inproceedings{Du2025CDCB,\n
   title={Decentralized Optimization via RC-ALADIN with Efficient Quantized Communication},\n
   author={Shuting Wu, Yifei Wang, Jingzhe Wang, Apostolos. I. Rikos and Xu Du.},\n
-  booktitle={2022 IEEE 64th Conference on Decision and Control (CDC)},\n
+  booktitle={2025 IEEE 64th Conference on Decision and Control (CDC)},\n
    organization={IEEE}\n
 }
 ~~~
