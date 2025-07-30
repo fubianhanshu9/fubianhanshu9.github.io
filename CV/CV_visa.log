@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.21)  30 JUL 2025 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.21)  30 JUL 2025 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -558,14 +558,6 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              This could result in several error messages on input li
 ne 295.
 
-
-Class scrartcl Warning: Incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 330.
-
 [3]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -573,7 +565,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 347.
+ne 346.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -581,7 +573,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 354.
+ne 363.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -589,7 +581,15 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 379.
+ne 370.
+
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 395.
 
 [4]
 
@@ -598,7 +598,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 418.
+ne 434.
 
 [5] [6] (./CV_visa.aux) ) 
 Here is how much of TeX's memory you used:
@@ -619,7 +619,7 @@ ic/amsfonts/cm/cmsy8.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti10.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
 10.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><d:
 /texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on CV_visa.pdf (6 pages, 139216 bytes).
+Output written on CV_visa.pdf (6 pages, 139553 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
