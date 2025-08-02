@@ -1,5 +1,5 @@
 # jemdoc: nofooter
-== Optimal Resilience Design of AC Microgrid using AO-SBQP Method
+== Optimal Demand Shut-offs of AC Microgrid using {AO-SBQP} Method
 
 
 
@@ -19,13 +19,18 @@ Microgrids are increasingly being utilized to increase the resilience and operat
 
 
 
-@article{Du2023,\n
-author = {Du, X. and Zhu, Shijie. and Wang, Y. and Han, B. and He, X.},\n
-title = {Optimal Resilience Design of {AC} Microgrid using {AO-SBQP} Method},\n
-booktitle = {In Proceedings of the 22nd IFAC World Congress, Yokohama, Japan},\n
-year = {2023},\n
-pages = {1565-1570},\n
+@article{du2023optimal,\n
+  title={Optimal Demand Shut-offs of AC Microgrid using {AO-SBQP} Method},\n
+  author={Du, Xu and Zhu, Shijie and Wang, Yifei and Han, Boyu and He, Xiaohe},\n
+  journal={IFAC-PapersOnLine},\n
+  volume={56},\n
+  number={2},\n
+  pages={1431--1436},\n
+  year={2023},\n
+  publisher={Elsevier}\n
 }
+
+
 
 
 ~~~
