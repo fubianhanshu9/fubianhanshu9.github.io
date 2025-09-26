@@ -10,6 +10,18 @@
 == Reference
 - In Proceedings of the 23rd European Control Conference (ECC)\n
 
+== Abstract
+The Augmented Lagrangian Alternating Direction
+Inexact Newton (ALADIN) method is a cutting-edge distributed
+optimization algorithm known for its superior numerical performance. It relies on each agent transmitting information to
+a central coordinator for data exchange. However, in practical
+network optimization and federated learning, unreliable information transmission often leads to packet loss, posing challenges
+for the convergence analysis of ALADIN. To address this issue,
+this paper proposes Flexible ALADIN, a random polling variant
+of ALADIN, and presents a rigorous convergence analysis,
+including global convergence for convex problems and local
+convergence for non-convex problems.
+
 
 == Download
 - [ECC2025.pdf Paper]\n

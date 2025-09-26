@@ -6,6 +6,10 @@
 == Authors
 - Xiaohua Zhou, Xu Du, Yijie Mao
 
+== Reference
+- In Proceedings of the
+2024 IEEE Globecom Workshops.
+
 == Abstract
 This paper focuses on radar waveform optimization
 for minimizing the Cramer-Rao bound (CRB) in a multiple-input 
@@ -23,8 +27,7 @@ lower than the baseline algorithms while maintaining the same
 radar sensing accuracy.
 
 == Download
-- [https://arxiv.org/pdf/2409.12569]\n
-(Accepted by Globecom Workshop 2024)\n
+- [Globecom.pdf Paper]\n
 
 == Bibtex
 ~~~
