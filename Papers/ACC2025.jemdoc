@@ -34,14 +34,14 @@ convex sensor allocation problem.
 == Bibtex
 ~~~
 
-@inproceedings{Du2025,\n
-	title={Distributed Consensus Optimization with Consensus {ALADIN}}, \n
-	author={Xu Du and Jingzhe Wang},\n
-        booktitle = {American Control Conference},\n
-	year={2025 (accepted for publication)}\n
+
+@INPROCEEDINGS{Du2025ACC,\n
+  author={Du, Xu and Wang, Jingzhe},\n
+  booktitle={2025 American Control Conference (ACC)}, \n
+  title={Distributed Consensus Optimization with Consensus ALADIN}, \n
+  year={2025},\n
+  pages={2949-2955},\n
 }
-
-
 
 
 ~~~

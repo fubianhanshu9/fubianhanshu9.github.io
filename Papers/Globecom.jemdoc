@@ -34,15 +34,13 @@ radar sensing accuracy.
 
 
 
-@misc{zhou2024cramerraoboundbasedwaveform,\n
-      title={Cram\'er-Rao Bound Based Waveform Optimization for MIMO Radar: An Efficient Linear-Proximal Method}, \n
-      author={Xiaohua Zhou and Xu Du and Yijie Mao},\n
-      year={2024},\n
-      eprint={2409.12569},\n
-      archivePrefix={arXiv},\n
-      primaryClass={eess.SP},\n
-      url={https://arxiv.org//abs//2409.12569}\n
-}
 
+@INPROCEEDINGS{11101662,\n
+  author={Zhou, Xiaohua and Du, Xu and Mao, Yijie},\n
+  booktitle={2024 IEEE Globecom Workshops (GC Wkshps)}, \n
+  title={Cramer-Rao Bound Based Waveform Optimization for MIMO Radar: An Efficient Linear-Proximal Method}, \n
+  year={2024},\n
+  pages={1-6},\n
+}
 
 ~~~

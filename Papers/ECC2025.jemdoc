@@ -30,12 +30,13 @@ convergence for non-convex problems.
 == Bibtex
 ~~~
 
-@inproceedings{Du2025,\n
-  title={Convergence Theory of Flexible ALADIN for Distributed Optimization},\n
-  author={Du, Xu and Zhou, Xiaohua, Zhu, Shijie and Apostolos Rikos},\n
-  booktitle={IEEE 23rd European Control Conference (ECC)
-},\n
-	year={2025 (accepted for publication)}\n
-}
+@INPROCEEDINGS{Du2025ECC,\n
+  author={Du, Xu and Zhou, Xiaohua and Zhu, Shijie and Rikos, Apostolos I.},\n
+  booktitle={2025 European Control Conference (ECC)}, \n
+  title={Convergence Theory of Flexible ALADIN for Distributed Optimization}, \n
+  year={2025},\n
+  pages={1907-1912},\n}
+
+
 ~~~
 
