@@ -36,7 +36,7 @@ radar sensing accuracy.
 
 
 @INPROCEEDINGS{11101662,\n
-  author={Zhou, Xiaohua and Du, Xu and Mao, Yijie},\n
+  author={Zhou, X. and Du, X. and Mao, Y.},\n
   booktitle={2024 IEEE Globecom Workshops (GC Wkshps)}, \n
   title={Cramer-Rao Bound Based Waveform Optimization for MIMO Radar: An Efficient Linear-Proximal Method}, \n
   year={2024},\n
