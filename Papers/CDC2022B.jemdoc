@@ -34,7 +34,7 @@ satisfaction accuracy with only a few steps.
 
 @inproceedings{zhu2022alternating,\n
   title={Alternating direction based sequential boolean quadratic programming method for transmit antenna selection},\n
-  author={Zhu, Shijie and Du, Xu},\n
+  author={Zhu, S. and Du, X.},\n
   booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)},\n
   pages={7491--7496},\n
   year={2022},\n

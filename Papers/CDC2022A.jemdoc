@@ -34,7 +34,7 @@ approximation techniques are benchmarked on a 5-bus and a
 
 @inproceedings{Du2019,\n
   title={Approximations for optimal experimental design in power system parameter estimation},\n
-  author={Du, Xu and Engelmann, Alexander and Faulwasser, Timm and Houska, Boris},\n
+  author={Du, X. and Engelmann, A. and Faulwasser, T. and Houska, B.},\n
   booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)},\n
   pages={5692--5697},\n
   year={2022},\n

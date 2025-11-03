@@ -26,7 +26,7 @@ Numerical experiments demonstrate that our proposed algorithm compares favorably
 
 @inproceedings{Du2025CDCA,\n
   title={Decentralized Optimization via RC-ALADIN with Efficient Quantized Communication},\n
-  author={Xu Du,  Karl H. Johansson, and Apostolos I. Rikos.},\n
+  author={Du,X and  Johansson, H,K. and Rikos,I.A.},\n
   booktitle={2025 IEEE 64th Conference on Decision and Control (CDC)},\n
    organization={IEEE}\n
 }

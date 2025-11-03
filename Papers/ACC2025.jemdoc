@@ -36,7 +36,7 @@ convex sensor allocation problem.
 
 
 @INPROCEEDINGS{Du2025ACC,\n
-  author={Du, Xu and Wang, Jingzhe},\n
+  author={Du, X. and Wang, J.},\n
   booktitle={2025 American Control Conference (ACC)}, \n
   title={Distributed Consensus Optimization with Consensus ALADIN}, \n
   year={2025},\n
