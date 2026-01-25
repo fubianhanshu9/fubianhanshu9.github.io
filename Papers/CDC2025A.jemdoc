@@ -24,11 +24,14 @@ Numerical experiments demonstrate that our proposed algorithm compares favorably
 == Bibtex
 ~~~
 
-@inproceedings{Du2025CDCA,\n
-  title={Decentralized Optimization via RC-ALADIN with Efficient Quantized Communication},\n
-  author={Du, X. and  Johansson,  H, K. and Rikos, I, A.},\n
+@inproceedings{du2025decentralized,\n
+  title={Decentralized optimization via RC-ALADIN with efficient quantized communication},\n
+  author={Du, Xu and Johansson, Karl H and Rikos, Apostolos I},\n
   booktitle={2025 IEEE 64th Conference on Decision and Control (CDC)},\n
-   organization={IEEE}\n
+  pages={4357--4363},\n
+  year={2025},\n
+  organization={IEEE}\n
 }
+
 ~~~
 
