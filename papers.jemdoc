@@ -1,6 +1,12 @@
 # jemdoc: menu{MENU}{papers.html}, nofooter
 == Xu Du-Papers
 
+
+== 2026
+- [Papers\\IFAC2026A.html Affine-coupled Distributed Optimization via Distributed Proximal Jacobian ADMM with Quantized Communication]\n
+- [Papers\\IFAC2026B.html Mix-CALADIN: A Distributed Algorithm for Consensus Mixed-Integer Optimization]\n
+- [Papers\\IFAC2026C.html Lightweight Real-Time ALADIN for Distributed Optimization]\n
+
 == 2025
 - [Papers\\CDC2025A.html Decentralized Optimization via RC-ALADIN with Efficient Quantized Communication]\n
 - [Papers\\CDC2025B.html A Time Splitting Based Optimization Method for Nonlinear MHE]\n

@@ -1,0 +1,39 @@
+# jemdoc: nofooter
+== Mix-CALADIN: A Distributed Algorithm for Consensus Mixed-Integer Optimization
+
+
+
+
+== Authors
+- Boyu Han, Xu Du,  Karl H. Johansson, Apostolos I. Rikos
+
+== Reference
+- Accepted by IFAC World Congress 2026
+
+== Abstract
+This paper addresses distributed consensus optimization problems with mixedinteger variables, with a specific focus on Boolean variables. We introduce a novel distributed
+algorithm that extends the Consensus Augmented Lagrangian Alternating Direction Inexact
+Newton (CALADIN) framework by incorporating specialized techniques for handling Boolean
+variables without relying on local mixed-integer solvers. Under the mild assumption of Lipschitz
+continuity of the objective functions, we establish rigorous convergence guarantees for both convex and nonconvex mixed-integer programming problems. Numerical experiments demonstrate
+that the proposed algorithm achieves competitive performance compared to existing approaches
+while providing rigorous convergence guarantees.
+
+== Download
+- [https://arxiv.org/pdf/2604.14897]  \n
+
+== Bibtex
+~~~
+
+
+
+
+@article{han2026mix,\n
+  title={Mix-{CALADIN}: {A} distributed algorithm for consensus mixed-integer optimization},\n
+  author={Han, Boyu and Du, Xu and Johansson, Karl H and Rikos, Apostolos I},\n
+  journal={arXiv preprint arXiv:2604.14897},\n
+  year={2026}\n
+}
+
+~~~
+

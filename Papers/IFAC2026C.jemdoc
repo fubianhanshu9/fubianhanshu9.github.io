@@ -1,0 +1,41 @@
+# jemdoc: nofooter
+== Lightweight Real-Time ALADIN for Distributed Optimization
+
+
+
+== Authors
+- Yifei Wang, Xuhui Feng, Shimin Pan, Liangfan Zhu, Xu Du, Apostolos I. Rikos
+
+== Reference
+- Accepted by IFAC World Congress 2026
+
+== Abstract
+ This paper presents a real-time computational framework for multi-node distributed
+optimization by extending the Augmented Lagrangian Alternating Direction Inexact Newton
+(ALADIN) algorithm. Our approach integrates adjoint sequential quadratic programming (SQP)
+techniques to enable efficient approximation of Jacobian information within the ALADIN
+embedded quadratic program, thereby reducing communication overhead. Furthermore, to
+decrease computational complexity, we design an event-triggered update strategy that avoids
+updating Hessian and Jacobian matrices at every iteration. The proposed method achieves
+local convergence and enhanced communication efficiency, making it well suited for time-critical
+applications. Numerical experiments demonstrate that our approach achieves competitive
+performance while exhibiting superior computational efficiency in real-time scenarios, validating
+its practical applicability for time-sensitive distributed optimization challenges.
+
+== Download
+- [https://arxiv.org/pdf/2604.15176]  \n
+
+== Bibtex
+~~~
+
+
+
+
+@article{wang2026lightweight,\n
+  title={Lightweight real-time {ALADIN} for distributed optimization},\n
+  author={Wang, Yifei and Feng, Xuhui and Pan, Shimin and Zhu, Liangfan and Du, Xu and Rikos, Apostolos I},\n
+  journal={arXiv preprint arXiv:2604.15176},\n
+  year={2026}\n
+}
+~~~
+

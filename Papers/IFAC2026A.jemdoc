@@ -1,0 +1,43 @@
+# jemdoc: nofooter
+== Affine-coupled Distributed Optimization via Distributed Proximal Jacobian ADMM with Quantized Communication
+
+
+
+
+== Authors
+- Xu Du, Boyu Han, Ivano Notarnicola, Karl H. Johansson, Apostolos I. Rikos
+
+== Reference
+- Accepted by IFAC World Congress 2026
+
+== Abstract
+This paper investigates distributed resource allocation optimization over directed
+graphs with limited communication bandwidth. We develop a novel distributed algorithm that
+integrates the centralized Proximal Jacobian Alternating Direction Method of Multipliers (PJ-ADMM) with a finite-level quantized consensus scheme, enabling nodes to cooperatively solve
+the optimization in a distributed fashion. Under the assumption of convex objective functions,
+we establish that the proposed algorithm achieves sublinear convergence to a neighborhood of
+the optimal solution, with the convergence accuracy explicitly bounded by the quantization level.
+Numerical experiments validate that the algorithm achieves competitive performance compared
+to existing approaches while exhibiting communication efficiency.
+
+
+== Download
+- [https://arxiv.org/pdf/2604.14861]  \n
+
+== Bibtex
+~~~
+
+
+
+@article{du2026affine,\n
+  title={Affine-coupled distributed optimization via distributed proximal {J}acobian {ADMM} with quantized communication},\n
+  author={Du, Xu and Han, Boyu and Notarnicola, Ivano and Johansson, Karl H and Rikos, Apostolos I},\n
+  journal={arXiv preprint arXiv:2604.14861},\n
+  year={2026}\n
+ }
+
+
+
+
+~~~
+
