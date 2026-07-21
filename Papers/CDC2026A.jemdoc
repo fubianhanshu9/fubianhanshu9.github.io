@@ -33,7 +33,7 @@ convergence behavior compared with baseline algorithm.
 ~~~
 
 @article{du2026CADMMprox,\n
-  title=CADMM-Prox: A Bi-level Consensus {ADMM} for Non-smooth Non-convex Distributed Consensus Optimization},\n
+  title={CADMM-Prox: A Bi-level Consensus {ADMM} for Non-smooth Non-convex Distributed Consensus Optimization},\n
   author={Du, Xu and Wu, Shuting, Karl H and Rikos, Apostolos I},\n
   journal={arXiv preprint arXiv:2607.17495},\n
   year={2026}\n
