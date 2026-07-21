@@ -3,6 +3,7 @@
 
 
 == 2026
+- [Papers\\CDC2026A.html CADMM-Prox: A Bi-level Consensus ADMM for Non-smooth Non-convex Distributed Consensus Optimization]\n
 - [Papers\\IFAC2026A.html Affine-coupled Distributed Optimization via Distributed Proximal Jacobian ADMM with Quantized Communication]\n
 - [Papers\\IFAC2026B.html Mix-CALADIN: A Distributed Algorithm for Consensus Mixed-Integer Optimization]\n
 - [Papers\\IFAC2026C.html Lightweight Real-Time ALADIN for Distributed Optimization]\n
