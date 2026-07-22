@@ -1,0 +1,38 @@
+# jemdoc: nofooter
+== Decentralized Linearized Consensus ADMM with Efficient Quantized Communication
+
+
+
+
+== Authors
+- Boyu Han, Xu Du, Karl H. Johansson, and Apostolos I. Rikos.
+
+== Reference
+- Accepted by 65th IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, 2026.
+
+== Abstract
+ Distributed optimization offers significant advantages over centralized methods in terms of scalability and robustness when solving large-scale problems.
+In this paper, we propose a novel decentralized optimization algorithm that integrates Inexact Consensus ADMM (IC-ADMM) with a finite-time decentralized quantized communication algorithm.
+The proposed method enjoys three main benefits: (i) it operates on directed communication graphs, (ii) it requires only quantized local information instead of exact values, and (iii) it does not rely on solving the local subproblems exactly.
+Under the assumption that each node’s local objective is -strongly convex and L-smooth, the algorithm is guaranteed to achieve global linear convergence to a neighborhood of the optimal solution.
+Extensive numerical experiments demonstrate its advantages over existing methods in terms of convergence speed and communication efficiency.
+
+
+== Download
+- [https://arxiv.org/pdf/2607.19074]  \n
+
+== Bibtex
+~~~
+
+@article{du2026CADMMprox,\n
+  title={Decentralized Linearized Consensus ADMM with Efficient Quantized Communication
+
+},\n
+  author={Han, Boyu and Du, Xu and Karl H and Rikos, Apostolos I},\n
+  journal={arXiv preprint arXiv:2607.19074},\n
+  year={2026}\n
+ }
+
+
+~~~
+
